@@ -4,6 +4,6 @@ numpy
 opencv-python-headless
 torch
 torchvision
+scipy
 tqdm
-basicsr
 git+https://github.com/ai-forever/Real-ESRGAN.git
