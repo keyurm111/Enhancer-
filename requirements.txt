@@ -6,4 +6,5 @@ torch
 torchvision
 scipy
 tqdm
-git+https://github.com/ai-forever/Real-ESRGAN.git
+setuptools
+RealESRGAN
