@@ -1,0 +1,9 @@
+streamlit
+Pillow
+numpy
+opencv-python-headless
+torch
+torchvision
+tqdm
+basicsr
+git+https://github.com/ai-forever/Real-ESRGAN.git
