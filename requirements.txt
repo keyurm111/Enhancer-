@@ -6,5 +6,4 @@ torch
 torchvision
 scipy
 tqdm
-setuptools
-RealESRGAN
+huggingface_hub
